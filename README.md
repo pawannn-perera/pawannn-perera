@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pawann Perera</h1>
+<h1 align="center">Hi 👋, I'm Pawan Perera</h1>
 
 - 🌱 I’m currently learning **Java, Python and React JS**
 
